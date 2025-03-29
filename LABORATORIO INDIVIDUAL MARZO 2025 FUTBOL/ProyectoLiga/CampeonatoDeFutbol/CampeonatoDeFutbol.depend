@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1743278787 source:c:\users\50240\documents\programacion1\tareas_progra1\laboratorio individual marzo 2025 futbol\proyectoliga\campeonatodefutbol\main.cpp
+	"Campeonato.h"
+	<iostream>
+	<vector>
+
+1743278787 source:c:\users\50240\documents\programacion1\tareas_progra1\laboratorio individual marzo 2025 futbol\proyectoliga\campeonatodefutbol\src\campeonato.cpp
+	"Campeonato.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1743278787 c:\users\50240\documents\programacion1\tareas_progra1\laboratorio individual marzo 2025 futbol\proyectoliga\campeonatodefutbol\include\campeonato.h
+	<string>
+	<vector>
+
+1743271890 source:c:\users\50240\documents\programacion1\tareas_progra1\laboratorio individual marzo 2025 futbol\proyectoliga\campeonatodefutbol\src\equipo.cpp
+	"equipo.h"
+	<iostream>
+	<iomanip>
+
+1743271729 c:\users\50240\documents\programacion1\tareas_progra1\laboratorio individual marzo 2025 futbol\proyectoliga\campeonatodefutbol\include\equipo.h
+	<string>
+
